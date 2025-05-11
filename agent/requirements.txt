@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+langchain
+openai
+duckduckgo-search
+faiss-cpu
+pypdf
+tiktoken
+langchain-community
+arxiv
+pymupdf
+sentence-transformers
